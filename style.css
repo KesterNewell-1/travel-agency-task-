@@ -240,16 +240,16 @@ button {
   flex-direction: column;
   justify-content: start;
   align-items: start;
-  row-gap: 0.5rem;
+  row-gap: 0.2rem;
 }
 
 .card-content h2 {
   font-size: 1.5rem;
   color: black;
-  font-weight: 600;
+  font-weight: 500;
 }
 .card-content p {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: gray;
   font-weight: 400;
 }
